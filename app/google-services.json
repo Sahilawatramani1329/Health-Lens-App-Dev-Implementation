@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167685458438",
+    "project_id": "healthlens3-53ca9",
+    "storage_bucket": "healthlens3-53ca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167685458438:android:39dec3d8aa43aa394d5187",
+        "android_client_info": {
+          "package_name": "com.example.healthlens3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtRxOr0coOlDsFOVIMbxvD7SKbXYSvc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
